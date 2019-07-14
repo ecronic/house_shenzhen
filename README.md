@@ -11,12 +11,13 @@
     *   [6.为什么每层住宅楼层默认高是在 3 米左右？](#为什么每层住宅楼层默认高是在3米左右？)
     *   [7.买房选择东边套 西边套 还是中间套？](#买房选择东边套西边套还是中间套？)
     *   [8.公摊面积](#公摊面积)
-    
+
 ## 一：<a name="关于房子要知道的一些概念">关于房子要知道的一些概念</a>
 
 一些房产的基本名词有助于看懂规划图
 
 ### 1.<a name="用地性质">[用地性质](https://baike.baidu.com/item/%E7%94%A8%E5%9C%B0%E6%80%A7%E8%B4%A8/7418473) </a>
+
 <div id="expander-2136437052" class="expand-container">
 <div id="expander-control-2136437052" class="expand-control">
     <span class="expand-control-icon"></span><span class="expand-control-text">用地性质对照表</span>
@@ -179,7 +180,7 @@
 
 ### 8.<a name="公摊面积">公摊面积</a>
 
-![](attachments/1086212/1246246.png)
+![](images/1246246.png)
 
 **公摊面积的计算方法：**
 
